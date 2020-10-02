@@ -25,13 +25,13 @@ public class CostaRica{
 		 
 		for(int i=4; i<5; i++){
             for(int j=0;j<matriz[0].length;j++){
-                matriz[i][j]='a';
+                matriz[i][j]='b';
             }
         }
 
         for(int i=5; i<6; i++){
             for(int j=0;j<matriz[0].length;j++){
-                matriz[i][j]='b';
+                matriz[i][j]='a';
             }
         }
 
